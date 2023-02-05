@@ -1,0 +1,34 @@
+h1{
+    text-align: center;
+}
+table{
+    border: 4px solid black;
+    min-width: 80%;
+    
+    background: black;
+    color: rgb(123, 255, 0);
+    text-align: center;
+}
+
+th, td{
+    border: 2px solid wheat;
+}
+
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+
+}
+
+a{
+    text-decoration: none;
+}
+
+button{
+    margin-top: 20px;
+    width: 150px;
+    height: 40px;
+    border: 2px solid black;
+}
